@@ -1,4 +1,4 @@
-package Test;
+package test;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -9,13 +9,13 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Random;
 
-import Consumable.Table;
-import Consumable.Request.Order;
-import Models.Customer;
-import Models.Employee.Chef;
-import Models.Employee.Waiter;
-import PoolHandlers.ChefPoolHandler;
-import PoolHandlers.WaiterPoolHandler;
+import consumable.Table;
+import consumable.request.Order;
+import models.Customer;
+import models.employee.Chef;
+import models.employee.Waiter;
+import poolHandlers.ChefPoolHandler;
+import poolHandlers.WaiterPoolHandler;
 
 public class Main {
 

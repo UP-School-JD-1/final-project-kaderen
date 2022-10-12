@@ -1,11 +1,11 @@
-package Models.Employee;
+package models.employee;
 
 import java.util.ArrayList;
 import java.util.Date;
 
-import Consumable.Request.Order;
-import Enums.Gender;
-import Test.Main;
+import consumable.request.Order;
+import enums.Gender;
+import test.Main;
 
 public class Chef extends Employee {
 

@@ -1,10 +1,10 @@
-package Consumable.Request;
+package consumable.request;
 import java.util.ArrayList;
 import java.util.Random;
 
-import Consumable.Consumable;
-import Enums.DrinkCategory;
-import Enums.FoodCategory;
+import consumable.Consumable;
+import enums.DrinkCategory;
+import enums.FoodCategory;
 
 public abstract class Request implements Consumable {
     private int price;

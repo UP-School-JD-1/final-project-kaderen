@@ -1,7 +1,7 @@
-package Models;
+package models;
 import java.util.Date;
 
-import Enums.Gender;
+import enums.Gender;
 
 public abstract class Person implements Runnable {
     private String name;

@@ -1,13 +1,13 @@
-package Models;
+package models;
 
 import java.util.ArrayList;
 import java.util.Date;
 
-import Consumable.Request.Order;
-import Enums.Gender;
-import Exception.IllegalOrderException;
-import Models.Employee.Waiter;
-import Test.Main;
+import consumable.request.Order;
+import enums.Gender;
+import exception.IllegalOrderException;
+import models.employee.Waiter;
+import test.Main;
 
 public class Customer extends Person {
     private boolean isOrdered;

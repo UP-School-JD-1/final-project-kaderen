@@ -1,5 +1,5 @@
-package Consumable.Request;
-import Enums.FoodCategory;
+package consumable.request;
+import enums.FoodCategory;
 
 public class Food extends Request {
 

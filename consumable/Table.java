@@ -1,7 +1,7 @@
-package Consumable;
+package consumable;
 import java.util.HashMap;
 
-import Models.Customer;
+import models.Customer;
 
 public class Table {
 

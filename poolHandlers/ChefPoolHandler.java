@@ -1,10 +1,10 @@
-package PoolHandlers;
+package poolHandlers;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadPoolExecutor;
 
-import Models.Employee.Chef;
+import models.employee.Chef;
 
 
 

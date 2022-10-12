@@ -1,9 +1,9 @@
-package Consumable.Request;
+package consumable.request;
 import java.util.ArrayList;
 import java.util.List;
 
-import Exception.IllegalOrderException;
-import Models.Customer;
+import exception.IllegalOrderException;
+import models.Customer;
 
 public class Order {
 

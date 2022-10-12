@@ -1,10 +1,10 @@
-package Models.Employee;
+package models.employee;
 import java.util.ArrayList;
 import java.util.Date;
 
-import Consumable.Table;
-import Enums.Gender;
-import Test.Main;
+import consumable.Table;
+import enums.Gender;
+import test.Main;
 
 public class Waiter extends Employee {
 

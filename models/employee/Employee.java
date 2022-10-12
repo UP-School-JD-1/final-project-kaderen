@@ -1,8 +1,8 @@
-package Models.Employee;
+package models.employee;
 import java.util.Date;
 
-import Enums.Gender;
-import Models.Person;
+import enums.Gender;
+import models.Person;
 
 public abstract class Employee extends Person {
     private Date startDateOfWork;

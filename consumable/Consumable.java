@@ -1,4 +1,4 @@
-package Consumable;
+package consumable;
 public interface Consumable {
     
      int getPrice();

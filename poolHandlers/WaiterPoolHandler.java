@@ -1,9 +1,9 @@
-package PoolHandlers;
+package poolHandlers;
 import java.util.ArrayList;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadPoolExecutor;
 
-import Models.Employee.Waiter;
+import models.employee.Waiter;
 
 import java.util.Random;
 
